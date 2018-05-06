@@ -25,7 +25,7 @@ public class RunTestNgCommands {
 	@Test (priority = 1)
 	public void SampleTestScript5() {
 		System.out.println("Test Case Number 5");
-		Assert.assertEquals("TestCase5", "TestCase7");
+		Assert.assertEquals("TestCase5", "TestCase5");
 	}
   
   
