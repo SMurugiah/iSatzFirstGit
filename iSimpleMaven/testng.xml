@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="iSimpleMaven.iSimpleMavenTestNg_Positive"/>
+      <class name="iSimpleMaven.iAAFirstTestNG"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
